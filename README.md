@@ -1,2 +1,2 @@
 # Owls
-A simple project created in codeHs
+A simple project created in codeHs using python
